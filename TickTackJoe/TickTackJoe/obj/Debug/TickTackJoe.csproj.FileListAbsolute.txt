@@ -1,0 +1,21 @@
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\bin\Debug\TickTackJoe.exe.config
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\bin\Debug\TickTackJoe.exe
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\bin\Debug\TickTackJoe.pdb
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.csprojResolveAssemblyReference.cache
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.Form1.resources
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.Properties.Resources.resources
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.csproj.GenerateResource.Cache
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.csproj.CoreCompileInputs.cache
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.exe
+C:\Users\hzxjhd\Desktop\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.pdb
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\bin\Debug\TickTackJoe.exe.config
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\bin\Debug\TickTackJoe.exe
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\bin\Debug\TickTackJoe.pdb
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.csproj.AssemblyReference.cache
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.csproj.SuggestedBindingRedirects.cache
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.Form1.resources
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.Properties.Resources.resources
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.csproj.GenerateResource.cache
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.csproj.CoreCompileInputs.cache
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.exe
+C:\Code Projects\Coding II\TickTackJoe\TickTackJoe\obj\Debug\TickTackJoe.pdb
